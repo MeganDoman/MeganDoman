@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MeganDoman
+- 👀 I’m interested in coputational social science, machine learning, and their combined applications.
+- 📫 Reach me on linkedin.com/in/megan-doman 
